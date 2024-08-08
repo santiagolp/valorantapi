@@ -11,12 +11,12 @@ Bienvenido a la API no oficial de Valorant. Esta API proporciona información so
 1. **Clona el repositorio**:
 
 ```bash
-git clone https://github.com/tuusuario/valorant-unofficial-api.git
+git clone https://github.com/santiagolp/valorantapi.git
 ```
 2. **Navega al directorio del proyecto**:
 
 ```bash
-cd valorant-unofficial-api
+cd valorantapi
 ```
 
 3. **Instala las dependencias** :
