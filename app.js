@@ -21,7 +21,7 @@ const swaggerOptions = {
       version: '1.0.0',
       description: 'Valorant unofficial api only for hobby',
       contact: {
-        name: 'Amazing Developer'
+        name: 'Santiago Dellepiane'
       },
       servers: ['http://localhost:3022']
     }
